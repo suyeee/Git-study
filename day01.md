@@ -65,14 +65,9 @@
 ## 유용한 단축키
 
 - tab : 자동완성
-
 - ctrl+l : 터미널 화면 청소 (과거내역 조회가능)
-
 - clear : 터미널 화면 청소 (과거내역 조회불가능)
-
 - 화살표 ↑ ↓ : 이전라인 가져오기
-
-- [^내어쓰기]:shift + tab (마크다운 단축키)
 
 
 
@@ -160,7 +155,7 @@
 
 ## Git & github 사이클
 
-![이미지오류](day01.assets/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F572c62c6-15b4-4f94-bea1-ed308bcc9fdd%2FUntitled.png)
+![이미지오류](day01.assets/day01-1.png)
 
 
 
@@ -182,11 +177,11 @@
 
 <u>강의자료 참고</u>
 
-![git 자료1](https://hphk.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7142d992-3d01-481c-9d4e-e818c6e185d8%2FUntitled.png?table=block&id=33cf118f-b207-495e-b7f7-76f0edce7605&spaceId=daa2d103-3ecd-4519-8c30-4f55e74c7ef4&width=1600&userId=&cache=v2)
+![git 자료1](day01.assets/day01-2.png)
 
 
 
-![git 자료2](https://hphk.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F67719520-a1d8-4cbb-81dd-49dea429a7f4%2FUntitled.png?table=block&id=9b36da28-f116-43f6-b606-af744b620584&spaceId=daa2d103-3ecd-4519-8c30-4f55e74c7ef4&width=1600&userId=&cache=v2)
+![git 자료2](day01.assets/day01-3.png)
 
 
 
@@ -303,3 +298,5 @@
 [^s3]: 최신상태 , 최근에 한 작업까지 Commit으로 저장되어있는 상태
 [^s4]: 수정되었지만 아직 Staging Area에는 반영하지않은 상태, git add로 staging에 올려주면된다.
 [^s5]: Staging Area에 올라간 상태
+[^내어쓰기]: shift + tab (마크다운 단축키) ↩
+
